@@ -18,8 +18,8 @@ Requirements:
 - Internet connection (for charts and maps)
 
 How to set up:
-- Download the project files.
-- Make sure the file is saved as index.html.
+- Download all project flies.
+- Unzip the folder.
 - Open index.html in a web browser.
 
 
